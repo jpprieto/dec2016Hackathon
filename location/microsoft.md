@@ -14,7 +14,7 @@ Projects must be submitted before 5:00pm... Be sure to start the submission proc
 ##Submit Projects Here
 Letter| Team Name |        Github Repo      |      Deployable Link    | 
 ------|-----------|-------------------------| ----------------------- |
-A     |           | [Link](insert link here)| [Link](insert link here)|
+A     |  GEOteer  | [Link](https://github.com/jpprieto/GEOteer)| [Link](https://rawgit.com/jpprieto/GEOteer/master/page1.html)|
 B     |           | [Link](insert link here)| [Link](insert link here)|
 C     |           | [Link](insert link here)| [Link](insert link here)|
 D     |           | [Link](insert link here)| [Link](insert link here)|
